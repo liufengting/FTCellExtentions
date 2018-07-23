@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
     Cell Extentions for easy use. Just some code for my future projects.
                    DESC
   s.homepage     = "https://github.com/liufengting/FTCellExtentions"
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "liufengting" => "wo157121900@me.com" }
-  s.source       = { :git => "http://EXAMPLE/FTCellExtentions.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/liufengting/FTCellExtentions.git", :tag => "#{s.version}" }
   s.source_files = ["FTCellExtentions/*.swift"]
 
 end
