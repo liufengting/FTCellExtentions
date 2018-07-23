@@ -6,7 +6,7 @@
 //  Copyright © 2018年 liufengting. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 public extension UICollectionView {
     
